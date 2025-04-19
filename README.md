@@ -23,8 +23,8 @@ print(best)
 ## How to cite
 If you use IFOX please cite:
 
-1- Jumaah, M. A., Ali, Y. H., Rashid, T. A., & Vimal, S. (2024). FOXANN: A Method for Boosting Neural Network Performance. Journal of Soft Computing and Computer Applications, 1(1), Article 1001. https://doi.org/10.70403/3008-1084.1001 
-2- Jumaah, M. A., Ali, Y. H., & Rashid, T. A. (2025). Efficient Q‑learning Hyperparameter Tuning Using FOX Optimization Algorithm. Results in Engineering, 25, 104341. https://doi.org/10.1016/j.rineng.2025.104341 
+- Jumaah, M. A., Ali, Y. H., Rashid, T. A., & Vimal, S. (2024). FOXANN: A Method for Boosting Neural Network Performance. Journal of Soft Computing and Computer Applications, 1(1), Article 1001. https://doi.org/10.70403/3008-1084.1001 
+- Jumaah, M. A., Ali, Y. H., & Rashid, T. A. (2025). Efficient Q‑learning Hyperparameter Tuning Using FOX Optimization Algorithm. Results in Engineering, 25, 104341. https://doi.org/10.1016/j.rineng.2025.104341 
 
 ```bibtex
 @article{jumaah2024FOXANN,
