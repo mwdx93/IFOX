@@ -8,16 +8,12 @@ which mimics red‑fox hunting behavior of the oringial FOX algorithm with fitne
 ```bash
 git clone https://github.com/mwdx93/IFOX.git
 cd IFOX
-pip install mealpy
+pip install -r requirements.txt
 ```
 
 ## Usage
 ```python
-import IFOX
-from mealpy.problems import Sphere
-algo = IFOX(epoch=1000, pop_size=50)
-best = algo.solve(Sphere())
-print(best)
+python main.py
 ```
 
 ## How to cite
